@@ -1319,8 +1319,9 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     .narrow {
         max-width: 100%;
     }
-    .header-nav__list{
+    .header-nav__list li{
         font-size: 4rem !important;
+        line-height: 6rem;
     }
 }
 
