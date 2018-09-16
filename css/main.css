@@ -2585,6 +2585,7 @@ html.no-csstransitions .home-content__main {
  .detail{
     background-color: #FFFFFF;
     margin-top: 12rem;
+    padding-bottom: 6rem;
  }
 
  .back{
